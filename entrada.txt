@@ -1,0 +1,32 @@
+So3a = 72;
+
+R = 02;
+e = 52;
+l508 = 1;
+Va = 5;
+xg = 3;
+if (6 * - xg > 6 * 88){
+	Rq = 9;
+
+	Jj = 3;
+
+	while (Rq < Jj){
+		B70K = (Jj - Rq) / 10 + 1;
+
+		print (Rq);
+
+		Rq = Rq + B70K;
+
+		Y8 = 12;
+
+	}	
+
+
+	print (38 + Y8);
+}
+else
+	wg7 = 98;
+
+
+print (e);
+
